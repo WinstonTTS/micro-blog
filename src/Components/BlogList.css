@@ -1,0 +1,16 @@
+.blogPost {
+  border: 1px solid slategray;
+  border-radius: 10px;
+  padding: 10px 20px;
+  margin-top: 20px;
+}
+
+.socialMedia {
+  display: flex;
+}
+
+.socialMedia > a {
+  width: 44px;
+  height: 44px;
+  margin-right: 10px;
+}
